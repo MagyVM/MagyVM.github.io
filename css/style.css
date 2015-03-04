@@ -211,7 +211,7 @@ a:hover {
 
 
 .img_inner {
-	max-width: 100%;
+	max-width: 80%;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	-o-box-sizing: border-box;
@@ -575,7 +575,7 @@ footer a:hover {
 }
 
 footer .f_logo {
-    font: bold 72px/72px 'Economica', sans-serif;
+    font: bold 52px/52px 'Economica', sans-serif;
     margin-bottom: 20px;
 }
 
@@ -595,9 +595,9 @@ a.mail_link {
 
 .f_contacts {
     text-align: center;
-    text-transform: uppercase;
-    font-size: 24px;
-    line-height: 24px;
+    
+    font-size: 20px;
+    line-height: 20px;
 }
 
 .f_contacts .fa {
@@ -810,7 +810,7 @@ header h1 {
 }
 
 .img_inner {
-    width: 100% !important;
+    width: 80% !important;
     float: none !important;
     margin-right: 0 !important;
     margin-bottom: 20px !important;
@@ -821,7 +821,8 @@ h1 a {
 }
 
 .img_inner img {
-	width: 100%;
+	width: 50%;
+    height: 40%;
 }
 
 header h1 {
