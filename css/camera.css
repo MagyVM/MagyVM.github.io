@@ -9,8 +9,10 @@
 
 .slider_wrapper {
 	position: relative;
-	text-align: left;
-	margin-top: -10px;
+	text-align: center;
+	margin-top: 0px;
+	width: 1200px;
+	margin-left: 380px;
 }
 
 
@@ -29,7 +31,7 @@
 
 
 .camera_wrap img {
-	max-width: 10000px;
+	max-width: 5000px;
 }
 
 .camera_fakehover {

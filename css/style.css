@@ -27,7 +27,7 @@ body {
 	position: relative;
     background-color: #86c8b4;
     color: #a1a0a0;
-    font: 14px/20px 'Open Sans', sans-serif;
+    font: 16px/20px 'Open Sans', sans-serif;
 }
 
 .ic {
@@ -77,16 +77,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-    font-size: 60px;
-    line-height: 60px;    
-    padding-top: 65px;
+    font-size: 50px;
+    line-height: 50px;    
+    padding-top: 55px;
 }
 
 h3 {
     color: #908b8b;
-    font-size: 42px;
+    font-size: 32px;
     line-height: 42px;
-    padding-top: 70px;
+    padding-top: 60px;
     margin-bottom: 21px;
 }
 
@@ -303,7 +303,7 @@ header h1 a img {
     border-bottom: 1px solid #c2c2c2;
     padding: 0 115px 20px;
     display: inline-block;
-    margin-bottom: 61px;
+    margin-bottom: 20px;
 }
 
 .socials .fa {
@@ -575,8 +575,8 @@ footer a:hover {
 }
 
 footer .f_logo {
-    font: bold 52px/52px 'Economica', sans-serif;
-    margin-bottom: 20px;
+    font: bold 42px/42px 'Economica', sans-serif;
+    margin-bottom: 10px;
 }
 
 footer .f_logo a:hover {
