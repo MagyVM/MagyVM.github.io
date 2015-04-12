@@ -27,7 +27,7 @@ body {
 	position: relative;
     background-color: #86c8b4;
     color: #a1a0a0;
-    font: 14px/18px 'Open Sans', sans-serif;
+    font: 16px/18px 'Open Sans', sans-serif;
 }
 
 .ic {
@@ -91,7 +91,7 @@ h3 {
 }
 
 .page1 h3 {
-    padding-top: 69px;
+    padding-top: 20px;
     margin-bottom: 23px;
 }
 
@@ -100,7 +100,7 @@ h3.h3__head1 {
 }
 
 h3.h3__head2 {
-    padding-top: 77px;
+    padding-top: 20px;
     margin-bottom: 13px;
 }
 
@@ -358,7 +358,7 @@ header h1 a img {
     color: #fff;
     background-color: #cce8df;
     padding: 36px 0 39px;
-    font: bold 48px/32px 'Economica', sans-serif;
+    font: bold 38px/32px 'Economica', sans-serif;
 }
 
 
