@@ -27,7 +27,7 @@ body {
 	position: relative;
     background-color: #86c8b4;
     color: #a1a0a0;
-    font: 16px/20px 'Open Sans', sans-serif;
+    font: 14px/18px 'Open Sans', sans-serif;
 }
 
 .ic {
@@ -44,7 +44,7 @@ body {
 }
 
 strong {
-	font-weight: 700;
+	font-weight: 500;
 }
 
 address {
@@ -62,7 +62,7 @@ input {
 
 
 img {
-	max-width: 100%;
+	max-width: 90%;
 }
 
 
@@ -77,15 +77,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-    font-size: 50px;
-    line-height: 50px;    
-    padding-top: 55px;
+    font-size: 40px;
+    line-height: 40px;    
+    padding-top: 45px;
 }
 
 h3 {
     color: #908b8b;
-    font-size: 32px;
-    line-height: 42px;
+    font-size: 22px;
+    line-height: 32px;
     padding-top: 60px;
     margin-bottom: 21px;
 }
@@ -132,7 +132,7 @@ ul {
     line-height: 42px;
     color: #fff;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 22px;
     background-color: #86c8b4;
     margin-top: 5px;
 }
@@ -186,7 +186,7 @@ a:hover {
     background-color: #86c8b4;
     padding: 6px 23px 7px;
     color: #fff;
-    font: bold 18px/24px 'Open Sans Condensed', sans-serif;
+    font: bold 16px/22px 'Open Sans Condensed', sans-serif;
 }
 
 .btn:hover {
@@ -279,7 +279,7 @@ header {
 
 header h1 {
 	position: relative;
-    margin-bottom: 57px;
+    margin-bottom: 17px;
 }
 
 header h1 a {
@@ -396,7 +396,7 @@ header h1 a img {
     margin-top: 3px;
     display: block;
     background-color: #86c8b4;
-    font-size: 22px;
+    font-size: 20px;
     padding: 2px 0 3px;
 }
 
@@ -444,7 +444,7 @@ header h1 a img {
 }
 
 .text1 {
-    font-size: 18px;
+    font-size: 16px;
     margin-top: -10px;
     margin-bottom: 22px;
 }
@@ -501,7 +501,7 @@ a.gal:hover img {
 
 .bq1 .alright {
     color: #727171;
-    font: 24px/24px 'Economica', sans-serif;
+    font: 22px/22px 'Economica', sans-serif;
 }
 /**Map**/
 
@@ -519,12 +519,13 @@ a.gal:hover img {
 
 .map {
     position: relative;
+    text-align: center;
 }
  
 
 .map figure {
     position: relative;
-    top: 20px;
+    top: 5px;
     padding: 28px 0 14px;
     position: relative;
 	display: block;
@@ -536,7 +537,7 @@ a.gal:hover img {
 }
 
 .map figure iframe {
-	width: 100%;
+	width: 80%;
 	height: 399px;
 	max-width: 100%;
 }
@@ -575,7 +576,7 @@ footer a:hover {
 }
 
 footer .f_logo {
-    font: bold 42px/42px 'Economica', sans-serif;
+    font: bold 32px/32px 'Economica', sans-serif;
     margin-bottom: 10px;
 }
 
@@ -596,7 +597,7 @@ a.mail_link {
 .f_contacts {
     text-align: center;
     
-    font-size: 20px;
+    font-size: 18px;
     line-height: 20px;
 }
 
@@ -627,7 +628,7 @@ footer:after {
 .copy span {
     display: block;
     margin-bottom: 11px;
-    font: bold 22px/18px 'Economica', sans-serif;
+    font: bold 20px/16px 'Economica', sans-serif;
 }
 
 
